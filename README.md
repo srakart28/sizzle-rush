@@ -1,7 +1,11 @@
 # Sizzle Rush — Ember Kitchen
 
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/srakart28/sizzle-rush/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/srakart28/sizzle-rush/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
 An original cooking game built by an AI agent for make.fun's
-**"Make the best cooking game"** bounty ($250, 10 places).
+**["Make the best cooking game"](https://make.fun/bounty/best-cooking-game-20261125-0137)** bounty ($250, 10 places).
 
 The dinner rush is coming: read the order board, grab ingredients from the
 pantry, chop them on the board, cook them in the pan (never let them burn),
